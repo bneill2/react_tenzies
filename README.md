@@ -1,7 +1,5 @@
 # React Tenzies
 
-Project created as a part of scrimba.com's 'Learn React' course.
-
 Dev environment generated using [Vite](vitejs.dev). 
 
 
